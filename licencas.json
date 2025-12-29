@@ -1,18 +1,96 @@
 {
-  "YZIE-8F3A-29KQ-2025": {
+  "_modelo": {
+    "descricao": "Modelo de licença",
+    "campos": {
+      "status": {
+        "ativo": "Licença válida e liberada",
+        "livre": "Licença ainda não ativada",
+        "bloqueado": "Licença bloqueada manualmente",
+        "expirado": "Licença vencida"
+      },
+      "validade": "Data no formato YYYY-MM-DD ou null para sem vencimento"
+    }
+  },
+
+  "YZIE-A9F3-Q2K8-2025": {
     "status": "livre",
-    "cliente": "",
-    "validade": ""
+    "validade": null
   },
-  "YZIE-1AA2-88BC-2026": {
-    "status": "ativo",
-    "cliente": "João",
-    "maquina": "a9f3c81e2d10",
-    "validade": "2026-01-29"
+  "YZIE-7M2Q-L8F9-2025": {
+    "status": "livre",
+    "validade": null
   },
-  "YZIE-9ZZ9-0000-2024": {
-    "status": "bloqueado",
-    "cliente": "Maria"
+  "YZIE-X4P7-9KQ2-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-2FQ9-MK7A-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-K9A7-QF3M-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-8QF2-A7M9-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-Q7A9-M2KF-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-3KQF-9M2A-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-F2A9-7KQM-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-MQ9A-72KF-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-9KFA-2MQ7-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-Q2M9-K7AF-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-7AFQ-29MK-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-M7K9-A2FQ-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-A2K9-Q7MF-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-FQ7A-K29M-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-29KQ-7AFM-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-KA9F-QM27-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-7MFA-Q92K-2025": {
+    "status": "livre",
+    "validade": null
+  },
+  "YZIE-QK7M-A92F-2025": {
+    "status": "livre",
+    "validade": null
   }
 }
 
