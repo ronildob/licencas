@@ -1,4 +1,18 @@
 {
-  "123456789012": "ativo",
-  "987654321098": "bloqueado"
+  "YZIE-8F3A-29KQ-2025": {
+    "status": "livre",
+    "cliente": "",
+    "validade": ""
+  },
+  "YZIE-1AA2-88BC-2026": {
+    "status": "ativo",
+    "cliente": "João",
+    "maquina": "a9f3c81e2d10",
+    "validade": "2026-01-29"
+  },
+  "YZIE-9ZZ9-0000-2024": {
+    "status": "bloqueado",
+    "cliente": "Maria"
+  }
 }
+
