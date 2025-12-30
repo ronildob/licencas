@@ -17,12 +17,12 @@
     "validade": "2025-12-20"
   },
   "YZIE-7M2Q-L8F9-2025": {
-    "status": "ativo",
-    "validade": "2025-12-26"
+    "status": "livre",
+    "validade": null
   },
   "YZIE-X4P7-9KQ2-2025": {
-    "status": "expirado",
-    "validade": "2025-12-25"
+    "status": "livre",
+    "validade": null
   },
   "YZIE-2FQ9-MK7A-2025": {
     "status": "livre",
